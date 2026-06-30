@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "john.doe@example.com",
+    "phone": "+1-555-123-4567",
+    "age": 28,
+    "gender": "Male",
+    "city": "New York",
+    "country": "USA",
+    "isActive": true
+  },
+  {
+    "id": 2,
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "email": "jane.smith@example.com",
+    "phone": "+44-20-1234-5678",
+    "age": 34,
+    "gender": "Female",
+    "city": "London",
+    "country": "UK",
+    "isActive": false
+  },
+  {
+    "id": 3,
+    "firstName": "Aarav",
+    "lastName": "Sharma",
+    "email": "aarav.sharma@example.com",
+    "phone": "+91-9876543210",
+    "age": 25,
+    "gender": "Male",
+    "city": "Bengaluru",
+    "country": "India",
+    "isActive": true
+  },
+  {
+    "id": 4,
+    "firstName": "Emily",
+    "lastName": "Johnson",
+    "email": "emily.johnson@example.com",
+    "phone": "+61-412-345-678",
+    "age": 31,
+    "gender": "Female",
+    "city": "Sydney",
+    "country": "Australia",
+    "isActive": true
+  },
+  {
+    "id": 5,
+    "firstName": "Carlos",
+    "lastName": "Garcia",
+    "email": "carlos.garcia@example.com",
+    "phone": "+34-612-345-678",
+    "age": 40,
+    "gender": "Male",
+    "city": "Madrid",
+    "country": "Spain",
+    "isActive": false
+  }
+]

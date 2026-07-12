@@ -39,5 +39,5 @@ Incremental Static Generation or Incremental Static Regeneration is a feature of
 
 To opt out use:
 ```
-export const dynamic = 'force-dynamic' 
+export const dynamic = 'force-dynamic';
 ```
